@@ -20,6 +20,7 @@ console.log(text);
 console.log(bool);
 
 // Stampa le variabili insieme usando l'operatore di concatenazione
+console.log(number + ' ' + text + ' ' + bool);
 console.log("Numero:" + " " + number + " " + "Testo:" + " " + text + " " + "Valore booleano:" + " " + bool);
 
 // Stampa usando il template literal
